@@ -1,0 +1,91 @@
+Booking_ID,Check_In_Date,Check_Out_Date,Length_of_Stay,Room_Type,Room_Rate,Total_Revenue,Segment,Booking_Channel,Lead_Time_Days,Nationality,Rooms_Available,Rooms_Occupied,Repeat_Guest
+BK001,2026-03-23,2026-03-25,2,Deluxe King,650,1300,Leisure,OTA,27,UK,200,121,No
+BK002,2026-01-05,2026-01-06,1,Superior Queen,520,520,Leisure,OTA,33,UAE,200,163,Yes
+BK003,2026-03-17,2026-03-19,2,Suite,1500,3000,Leisure,OTA,48,USA,200,129,Yes
+BK004,2026-02-13,2026-02-15,2,Superior King,560,1120,Corporate,Brand.com,5,China,200,168,No
+BK005,2026-02-18,2026-02-19,1,Superior King,590,590,Corporate,Brand.com,4,UAE,200,115,No
+BK006,2026-02-07,2026-02-13,6,Suite,1550,9300,Corporate,Direct,8,UK,200,156,Yes
+BK007,2026-02-15,2026-02-17,2,Superior King,610,1220,Group,Direct,68,UK,200,141,Yes
+BK008,2026-02-18,2026-02-20,2,Presidential Suite,2940,5880,Leisure,OTA,41,China,200,117,Yes
+BK009,2026-01-05,2026-01-10,5,Superior King,540,2700,Group,Wholesale,43,UK,200,160,No
+BK010,2026-03-24,2026-03-27,3,Superior King,550,1650,Group,Wholesale,77,UK,200,161,No
+BK011,2026-01-18,2026-01-21,3,Superior Queen,480,1440,Leisure,Direct,31,China,200,164,No
+BK012,2026-02-19,2026-02-21,2,Presidential Suite,2860,5720,Group,Direct,73,UAE,200,144,No
+BK013,2026-02-13,2026-02-15,2,Superior King,570,1140,Wholesale,OTA,25,USA,200,123,No
+BK014,2026-02-08,2026-02-13,5,Deluxe King,640,3200,Corporate,GDS,9,Australia,200,110,No
+BK015,2026-03-04,2026-03-05,1,Presidential Suite,3040,3040,Corporate,GDS,1,Canada,200,120,Yes
+BK016,2026-03-04,2026-03-09,5,Presidential Suite,2870,14350,Leisure,Direct,51,Australia,200,131,Yes
+BK017,2026-03-19,2026-03-22,3,Superior Queen,520,1560,Wholesale,Wholesale,33,USA,200,157,No
+BK018,2026-03-08,2026-03-11,3,Superior Queen,490,1470,Leisure,OTA,56,Canada,200,138,Yes
+BK019,2026-03-22,2026-03-23,1,Superior Queen,480,480,Corporate,GDS,9,Canada,200,172,Yes
+BK020,2026-01-17,2026-01-21,4,Suite,1430,5720,Leisure,Brand.com,47,Canada,200,122,No
+BK021,2026-02-15,2026-02-18,3,Superior King,600,1800,Wholesale,Wholesale,17,USA,200,153,No
+BK022,2026-01-14,2026-01-16,2,Superior Queen,520,1040,Corporate,GDS,5,USA,200,119,No
+BK023,2026-03-12,2026-03-13,1,Deluxe King,680,680,Leisure,Direct,36,Canada,200,172,No
+BK024,2026-02-21,2026-02-27,6,Superior Queen,480,2880,Corporate,Direct,13,China,200,146,No
+BK025,2026-03-13,2026-03-16,3,Superior King,550,1650,Leisure,Direct,58,UAE,200,117,No
+BK026,2026-01-08,2026-01-09,1,Superior King,610,610,Group,Direct,33,Australia,200,120,No
+BK027,2026-01-09,2026-01-12,3,Deluxe King,650,1950,Leisure,OTA,36,USA,200,115,No
+BK028,2026-02-23,2026-02-26,3,Deluxe King,660,1980,Leisure,Direct,41,Canada,200,160,Yes
+BK029,2026-03-24,2026-03-26,2,Superior King,600,1200,Leisure,Direct,50,UK,200,122,Yes
+BK030,2026-01-28,2026-01-31,3,Superior Queen,510,1530,Leisure,Direct,44,Canada,200,166,No
+BK031,2026-02-08,2026-02-11,3,Presidential Suite,2930,8790,Leisure,OTA,56,Canada,200,123,No
+BK032,2026-01-18,2026-01-20,2,Suite,1500,3000,Leisure,Brand.com,39,UK,200,153,Yes
+BK033,2026-03-23,2026-03-28,5,Deluxe King,650,3250,Leisure,Direct,48,China,200,115,Yes
+BK034,2026-01-17,2026-01-20,3,Superior King,600,1800,Group,Wholesale,65,Canada,200,119,No
+BK035,2026-03-30,2026-04-05,6,Deluxe King,720,4320,Group,Direct,57,Canada,200,149,No
+BK036,2026-01-06,2026-01-11,5,Superior Queen,500,2500,Leisure,Brand.com,56,France,200,162,No
+BK037,2026-01-20,2026-01-26,6,Superior Queen,490,2940,Leisure,Brand.com,22,Canada,200,152,No
+BK038,2026-02-22,2026-02-27,5,Suite,1520,7600,Leisure,Direct,27,USA,200,114,No
+BK039,2026-01-29,2026-01-31,2,Presidential Suite,2770,5540,Leisure,Direct,22,UK,200,161,Yes
+BK040,2026-01-09,2026-01-15,6,Superior King,590,3540,Corporate,Brand.com,14,USA,200,113,Yes
+BK041,2026-02-03,2026-02-05,2,Presidential Suite,2730,5460,Leisure,OTA,48,USA,200,150,No
+BK042,2026-03-07,2026-03-09,2,Suite,1280,2560,Leisure,OTA,48,Canada,200,135,No
+BK043,2026-01-09,2026-01-15,6,Presidential Suite,2910,17460,Group,Direct,76,France,200,174,Yes
+BK044,2026-02-22,2026-02-24,2,Deluxe King,690,1380,Leisure,Brand.com,45,UK,200,132,No
+BK045,2026-02-08,2026-02-11,3,Suite,1320,3960,Leisure,Brand.com,58,UK,200,151,No
+BK046,2026-02-26,2026-03-01,3,Deluxe King,720,2160,Complimentary,Direct,1,Canada,200,152,Yes
+BK047,2026-01-31,2026-02-03,3,Superior Queen,500,1500,Leisure,Direct,36,Australia,200,119,No
+BK048,2026-03-22,2026-03-25,3,Deluxe King,670,2010,Corporate,GDS,3,UK,200,110,No
+BK049,2026-01-14,2026-01-18,4,Superior Queen,540,2160,Wholesale,OTA,17,USA,200,125,No
+BK050,2026-03-01,2026-03-04,3,Presidential Suite,2900,8700,Complimentary,Direct,6,China,200,167,No
+BK051,2026-03-02,2026-03-05,3,Suite,1540,4620,Leisure,OTA,52,UK,200,145,No
+BK052,2026-02-06,2026-02-08,2,Superior King,610,1220,Leisure,Direct,30,Canada,200,129,No
+BK053,2026-01-09,2026-01-12,3,Superior King,570,1710,Leisure,Direct,47,USA,200,112,No
+BK054,2026-03-15,2026-03-17,2,Superior Queen,510,1020,Complimentary,Direct,6,USA,200,138,No
+BK055,2026-02-04,2026-02-07,3,Superior Queen,510,1530,Wholesale,OTA,24,China,200,126,No
+BK056,2026-03-10,2026-03-11,1,Superior King,580,580,Leisure,Direct,48,Canada,200,169,Yes
+BK057,2026-02-03,2026-02-05,2,Superior Queen,510,1020,Complimentary,Direct,4,UAE,200,163,Yes
+BK058,2026-01-11,2026-01-14,3,Deluxe King,630,1890,Corporate,GDS,11,Canada,200,115,No
+BK059,2026-02-01,2026-02-03,2,Superior Queen,490,980,Leisure,Brand.com,28,USA,200,137,No
+BK060,2026-02-02,2026-02-06,4,Superior Queen,530,2120,Complimentary,Direct,2,Australia,200,123,No
+BK061,2026-02-09,2026-02-12,3,Presidential Suite,2790,8370,Wholesale,Wholesale,18,UK,200,141,Yes
+BK062,2026-02-08,2026-02-13,5,Deluxe King,630,3150,Group,Direct,52,USA,200,157,Yes
+BK063,2026-03-24,2026-03-26,2,Suite,1530,3060,Leisure,Brand.com,44,UK,200,168,No
+BK064,2026-02-25,2026-02-27,2,Deluxe King,700,1400,Group,Wholesale,59,USA,200,144,Yes
+BK065,2026-02-01,2026-02-06,5,Superior Queen,550,2750,Leisure,Brand.com,57,UK,200,158,Yes
+BK066,2026-03-05,2026-03-10,5,Superior Queen,500,2500,Leisure,Brand.com,38,France,200,145,No
+BK067,2026-03-08,2026-03-14,6,Superior Queen,540,3240,Corporate,Brand.com,13,Canada,200,170,No
+BK068,2026-03-04,2026-03-07,3,Superior Queen,500,1500,Corporate,Brand.com,4,USA,200,157,No
+BK069,2026-03-09,2026-03-11,2,Presidential Suite,2880,5760,Corporate,Brand.com,8,Canada,200,142,Yes
+BK070,2026-01-25,2026-01-27,2,Deluxe King,730,1460,Wholesale,Wholesale,26,Canada,200,171,Yes
+BK071,2026-03-17,2026-03-23,6,Deluxe King,650,3900,Leisure,Direct,39,Canada,200,132,Yes
+BK072,2026-03-10,2026-03-12,2,Superior Queen,480,960,Leisure,OTA,29,UK,200,172,Yes
+BK073,2026-01-02,2026-01-05,3,Superior King,570,1710,Leisure,Direct,37,Australia,200,171,Yes
+BK074,2026-01-09,2026-01-12,3,Superior Queen,530,1590,Leisure,Direct,30,China,200,148,Yes
+BK075,2026-02-01,2026-02-03,2,Suite,1440,2880,Group,Direct,79,USA,200,167,No
+BK076,2026-02-08,2026-02-13,5,Presidential Suite,2750,13750,Group,Direct,69,Australia,200,122,No
+BK077,2026-01-27,2026-01-30,3,Superior King,540,1620,Leisure,Direct,56,Canada,200,110,No
+BK078,2026-03-30,2026-04-02,3,Superior King,550,1650,Wholesale,OTA,43,Canada,200,139,No
+BK079,2026-03-22,2026-03-25,3,Suite,1280,3840,Leisure,OTA,35,UK,200,144,No
+BK080,2026-01-10,2026-01-11,1,Suite,1440,1440,Group,Wholesale,58,Canada,200,148,No
+BK081,2026-02-04,2026-02-07,3,Superior King,540,1620,Leisure,Brand.com,41,UK,200,113,Yes
+BK082,2026-03-28,2026-04-02,5,Deluxe King,730,3650,Complimentary,Direct,0,UAE,200,132,No
+BK083,2026-03-25,2026-03-28,3,Superior King,620,1860,Corporate,Brand.com,14,USA,200,121,No
+BK084,2026-02-22,2026-02-24,2,Deluxe King,720,1440,Corporate,Direct,12,USA,200,161,No
+BK085,2026-03-12,2026-03-13,1,Superior Queen,500,500,Leisure,Brand.com,53,China,200,110,No
+BK086,2026-03-11,2026-03-14,3,Superior Queen,520,1560,Group,Wholesale,70,USA,200,116,Yes
+BK087,2026-03-12,2026-03-14,2,Superior King,610,1220,Corporate,GDS,1,Australia,200,140,No
+BK088,2026-02-09,2026-02-12,3,Deluxe King,630,1890,Leisure,Brand.com,28,UK,200,129,No
+BK089,2026-02-07,2026-02-10,3,Superior King,610,1830,Corporate,GDS,8,USA,200,159,Yes
+BK090,2026-03-18,2026-03-21,3,Suite,1550,4650,Leisure,Brand.com,42,Australia,200,174,Yes
