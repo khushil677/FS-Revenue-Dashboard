@@ -63,3 +63,15 @@ SELECT
 FROM bookings
 GROUP BY MONTH(Check_In_Date), MONTHNAME(Check_In_Date)
 ORDER BY Month_Number;
+
+-- Query 5: ADR and Revenue Ranking by Room Type
+SELECT 
+    Room_Type,
+    COUNT(*) AS Total_Bookings,
+    ROUND(AVG(Room_Rate), 2) AS ADR,
+    ROUND(SUM(Total_Revenue), 2) AS Total_Revenue,
+    ROUND(AVG(Length_of_Stay), 1) AS Avg_Stay,
+    RANK() OVER (ORDER BY AVG(Room_Rate) DESC) AS ADR_Rank
+FROM bookings
+GROUP BY Room_Type
+ORDER BY ADR_Rank;
