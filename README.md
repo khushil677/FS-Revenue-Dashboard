@@ -7,10 +7,10 @@
 ## Dashboard Preview
 
 ### Page 1 — Revenue Overview
-![Revenue Overview](page1.png)
+![Revenue Overview](RevenueIntelligence.png)
 
 ### Page 2 — Guest & Channel Intelligence
-![Guest & Channel Intelligence](page2.png)
+![Guest & Channel Intelligence](GuestIntelligence.png)
 
 ---
 
