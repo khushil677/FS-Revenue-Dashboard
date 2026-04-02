@@ -133,4 +133,4 @@ FS-Revenue-Dashboard/
 Built by **Khushil Varsani** — Computer Programming graduate from Seneca Polytechnic, Toronto.
 Aspiring Data Analyst with a passion for hospitality analytics and revenue intelligence.
 
-Connect on LinkedIn · [github.com/khushil677](https://github.com/khushil677)
+Connect on LinkedIn · [linkedin.com/in/khushilv](www.linkedin.com/in/khushilv)
